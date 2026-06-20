@@ -4,8 +4,6 @@
 Analyzed Swiggy food delivery sales data to identify revenue trends, 
 regional performance, and restaurant category insights using Excel.
 
-## Dataset used 
-<a href ="https://github.com/PratikGavale06/swiggy-sales-analysis/blob/main/Swiggy%20Sales%20Data.xlsx" a>
 ## Dataset
 - Source: Kaggle
 - Records: ~1.97L orders across multiple Indian cities and states
@@ -27,6 +25,3 @@ regional performance, and restaurant category insights using Excel.
 
 ## Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
-
-## Dashboard Preview
-<a href ="https://github.com/PratikGavale06/swiggy-sales-analysis/blob/main/Screenshot%202026-06-20%20094724.png" a>
